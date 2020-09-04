@@ -4,7 +4,7 @@
 
 Install the NPM dependencies for this project.
 
-```
+```bash
 npm install
 ```
 
@@ -26,7 +26,7 @@ For an example, you can take a look at the [.env.example](.env.example) file in 
 
 You can run the application by typing in:
 
-```
+```bash
 npm start
 ```
 
