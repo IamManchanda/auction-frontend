@@ -22,7 +22,7 @@ npm install
 ```
 
 ## Setting up variables
-Create a `.env` file in the root folder of this project. You need to specify two variables:
+Create a `.env` file in the root folder of this project. You need to specify four variables:
 
 * `REACT_APP_REFRESH_RATE`: The rate at which auctions will be fetched (in milliseconds).
 
